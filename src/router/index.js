@@ -5,12 +5,6 @@ const routes = [{
     name: 'Home',
     component: () =>
         import( /* webpackChunkName: "about" */ '../pages/HomePage.vue')
-},
-{
-    path: '/pay',
-    name: 'Payment',
-    component: () =>
-        import( /* webpackChunkName: "about" */ '../pages/PaymentPage.vue')
 }]
 
 const router = createRouter({
