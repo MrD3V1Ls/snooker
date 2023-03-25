@@ -6,7 +6,7 @@
                     <div>
                         <img src="https://assets.codepen.io/285131/untitled-ui-icon.svg" />
                     </div>
-                    <h2>Musify</h2>
+                    <h2>Snooker</h2>
                 </a>
             </div>
             <div class="header-navigation">
